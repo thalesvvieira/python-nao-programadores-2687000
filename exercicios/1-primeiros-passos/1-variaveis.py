@@ -5,7 +5,7 @@
 
 # Declare variáveis do tipo string
 
+nome = 'string'
 # Declare variáveis de cada tipo numérico
-
 
 # Declare uma variável do tipo booleano
